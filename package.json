@@ -1,0 +1,25 @@
+{
+  "name": "js-test-hw3-playwright",
+  "version": "0.0.1",
+  "description": "this is homework 3 for javascripts testing course",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "test",
+    "playwright",
+    "homework"
+  ],
+  "author": "rtm_wrk rtm_wrk@rambler.ru",
+  "license": "ISC",
+  "homepage": "https://github.com/rtmwrk/jst3_1#readme",
+  "bugs": {
+    "url": "https://github.com/rtmwrk/jst3_1/issues"
+  },
+  "scripts": {
+    "test": "playwright"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.38.0",
+    "playwright": "^1.38.0"
+  }
+}
